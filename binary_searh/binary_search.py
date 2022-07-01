@@ -40,7 +40,7 @@ class Solution:
                 return self.bin_search(arr, mid+1, high, k)
 #{ 
 #  Driver Code Starts
-#Initial template for Python1
+# Initial template for Python1
 
 if __name__ == '__main__':
     # t = int(input())
