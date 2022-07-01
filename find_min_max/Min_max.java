@@ -9,17 +9,27 @@ import java.io.*;
 
 class pair  
 {  
-    long first, second;  
+    private long first, second;  
+
     public pair(long first, long second)  
     {  
         this.first = first;  
         this.second = second;  
     }  
+
+    public long getFirst(){
+        return this.first;
+    }
+
+    public long getSecond(){
+        return this.second;
+    }
 }
 
 class Min_max {
 	public static void main(String[] args) throws IOException
 	{
+        
 	        BufferedReader br =
             new BufferedReader(new InputStreamReader(System.in));
         // int t =
@@ -36,7 +46,7 @@ class Min_max {
             
             Compute obj = new Compute();
             pair product = obj.getMinMax(a, n); 
-            System.out.println("min = "+ product.first +" :: "+ "max = " + product.second);
+            System.out.println("min = "+ product.getFirst() +" :: "+ "max = " + product.getSecond());
             
         // }
 	}
