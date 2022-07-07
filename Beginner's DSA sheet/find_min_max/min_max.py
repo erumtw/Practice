@@ -19,7 +19,7 @@ def getMinMax(a, n):
     # return min(a), max(a)
     
     
-
+    enu
 #{ 
 #  Driver Code Starts
 #Initial Template for Python 3

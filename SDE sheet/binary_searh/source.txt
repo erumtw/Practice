@@ -1,0 +1,5 @@
+// problems
+https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1/?page=1&curated[]=1&sortBy=submissions
+
+// อ้างอิง
+grassrootengineer.medium.com/binary-search-algorithm-คือ-อะไร-ใช้ทำอะไร-b9fd7438fa62

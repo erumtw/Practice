@@ -1,0 +1,5 @@
+// problems
+https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/?page=1&curated[]=8&sortBy=submissions#
+
+//solution form geeksforgeeks
+https://www.geeksforgeeks.org/find-the-missing-number/
