@@ -16,7 +16,8 @@ Explanation: Maximum element is 45.
 #User function Template for python3
 class Solution:
     def findMaxTil(self, arr, left, right):
-        
+        if left > right:
+            return -1
         if left == right: # 1 element left case
             return arr[right]
         if left+1 == right and arr[left] >= arr[right]: # 2 elements left case
